@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukeshdeuba
 - 👀 I’m interested in c and c++
 - 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on progects on c 
+- 💞️ I’m looking to collaborate on projects on c 
 - 📫 How to reach me to top notch coder
 
 <!---
